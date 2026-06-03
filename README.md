@@ -154,6 +154,28 @@ from DefenseFinder.
 
 ---
 
+## Issues &amp; feedback
+
+If you find a problem, spot an inaccuracy, or have a feature request,
+please let us know &mdash; we read everything and try to act on it
+quickly.
+
+- **Bug reports / feature requests:** open a
+  [GitHub issue](https://github.com/marshomics/magdb/issues/new). This
+  is the preferred channel for anything actionable (broken links,
+  incorrect metadata, missing files, ideas for new search filters or
+  annotations).
+- **Quick questions or sensitive matters:** email
+  [james.marsh@tuebingen.mpg.de](mailto:james.marsh@tuebingen.mpg.de).
+
+When reporting a bug, please include:
+
+- the URL of the page or file involved (if any),
+- the genome ID(s) affected (if relevant), and
+- what you expected to see versus what you actually saw.
+
+---
+
 ## Citation
 
 
