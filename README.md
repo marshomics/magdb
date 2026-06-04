@@ -21,7 +21,7 @@ All genomes were de-duplicated with Mash, quality-filtered against
 [MIMAG](https://www.nature.com/articles/nbt.3893) standards, taxonomically
 classified with GTDB-Tk against
 [GTDB release r214](https://gtdb.ecogenomic.org/), and screened for
-chimerism with  GUNC.
+chimerism with GUNC.
 
 ---
 
