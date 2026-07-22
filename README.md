@@ -29,7 +29,7 @@ chimerism with GUNC.
 
 The main entry point with search, browse and per-MAG download links:
 
-🔗 **https://plabase.cs.uni-tuebingen.de/magdb/**
+🔗 **[https://services-ab.cs.uni-tuebingen.de/magdb/](https://services-ab.cs.uni-tuebingen.de/magdb/)**
 
 Features:
 
@@ -192,6 +192,6 @@ Max Planck Institute for Biology Tübingen, Max-Planck-Ring 5, 72076
 Tübingen, Germany.
 
 For privacy and imprint information, see the
-[Imprint](https://plabase.cs.uni-tuebingen.de/magdb/imprint.php) and
-[Privacy](https://plabase.cs.uni-tuebingen.de/magdb/privacy.php) pages
+[Imprint](https://services-ab.cs.uni-tuebingen.de/magdb/imprint.php) and
+[Privacy](https://services-ab.cs.uni-tuebingen.de/magdb/privacy.php) pages
 on the main site.
