@@ -1,13 +1,13 @@
-# MAGdb
+# UniMAG
 
 **A unified catalogue of metagenome-assembled genomes from human gut,
 non-human animal gut, and environmental sources.**
 
 <p align="center">
-  <img src="magdb_pipeline.jpg" alt="MAGdb processing pipeline: collection, QC, dereplication, classification, annotation, and chimera detection" width="100%">
+  <img src="unimag_pipeline.jpg" alt="UniMAG processing pipeline: collection, QC, dereplication, classification, annotation, and chimera detection" width="100%">
 </p>
 
-MAGdb compiles **581,395 quality-controlled MAGs** from published studies
+UniMAG compiles **581,395 quality-controlled MAGs** from published studies
 and public catalogues across three habitat categories:
 
 | Source | MAGs |
@@ -29,7 +29,7 @@ chimerism with GUNC.
 
 The main entry point with search, browse and per-MAG download links:
 
-🔗 **[https://services-ab.cs.uni-tuebingen.de/magdb/](https://services-ab.cs.uni-tuebingen.de/magdb/)**
+🔗 **[https://services-ab.cs.uni-tuebingen.de/unimag/](https://services-ab.cs.uni-tuebingen.de/unimag/)**
 
 Features:
 
@@ -161,7 +161,7 @@ please let us know &mdash; we read everything and try to act on it
 quickly.
 
 - **Bug reports / feature requests:** open a
-  [GitHub issue](https://github.com/marshomics/magdb/issues/new). This
+  [GitHub issue](https://github.com/marshomics/unimag/issues/new). This
   is the preferred channel for anything actionable (broken links,
   incorrect metadata, missing files, ideas for new search filters or
   annotations).
@@ -192,6 +192,6 @@ Max Planck Institute for Biology Tübingen, Max-Planck-Ring 5, 72076
 Tübingen, Germany.
 
 For privacy and imprint information, see the
-[Imprint](https://services-ab.cs.uni-tuebingen.de/magdb/imprint.php) and
-[Privacy](https://services-ab.cs.uni-tuebingen.de/magdb/privacy.php) pages
+[Imprint](https://services-ab.cs.uni-tuebingen.de/unimag/imprint.php) and
+[Privacy](https://services-ab.cs.uni-tuebingen.de/unimag/privacy.php) pages
 on the main site.
