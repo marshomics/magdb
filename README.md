@@ -66,7 +66,7 @@ s3://magdb/
 │   ├── human_gbk/              # GenBank annotation (.gbk)
 │   ├── human_gff/              # GFF3 annotation (.gff)
 │   └── human_tsv/              # per-CDS annotation (.tsv)
-├── animal/                     # 142,183 MAGs (same six subfolders)
+├── animal/                     # 142,133 MAGs (same six subfolders)
 ├── environmental/              # 96,337 MAGs (same six subfolders)
 ├── kofams/                     # KEGG Orthology assignments (KOfamscan)
 │   ├── human.txt               # 38.67 GB
