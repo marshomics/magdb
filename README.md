@@ -13,9 +13,9 @@ and public catalogues across three habitat categories:
 | Source | MAGs |
 |---|---:|
 | Human gut | 342,875 |
-| Non-human animal gut | 142,183 |
+| Non-human animal gut | 142,133 |
 | Environmental | 96,337 |
-| **Total** | **581,395** |
+| **Total** | **581,345** |
 
 All genomes were de-duplicated with Mash, quality-filtered against
 [MIMAG](https://www.nature.com/articles/nbt.3893) standards, taxonomically
